@@ -1,0 +1,62 @@
+.header {
+    background-color: darkkhaki;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+h1,
+h3 {
+    text-align: center;
+    margin: auto;
+}
+
+.aku {
+    width: 175px;
+    height: 150px;
+    margin: 5px;
+    border-radius: 50%;
+}
+
+.logo-skill {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    box-sizing: border-box;
+}
+
+.html {
+    width: 250px;
+    height: 200px;
+    border-radius: 100%;
+    padding: 10px;
+}
+
+.css {
+    width: 250px;
+    height: 200px;
+    border-radius: 100%;
+    padding: 10px;
+}
+
+.js {
+    width: 250px;
+    height: 200px;
+    border-radius: 100%;
+    padding: 10px;
+}
+
+.quasar {
+    width: 250px;
+    height: 200px;
+    border-radius: 100%;
+    padding: 10px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+}
